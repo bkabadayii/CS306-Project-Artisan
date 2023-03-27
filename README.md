@@ -1,7 +1,15 @@
 # CS306-Project-Artisan
 
-### Datasets folder:
-* Country data 
+### Datasets
+* raw_data: Raw csv files.
+* organized_data: Organized csv files (csv's matching the entities and relations in ER diagram).
 
-### ER Diagram: 
-* Entity relationship diagram.
+### Documents
+* CS306_Artisan_Step1.pdf: Project step 1 report.
+* ER_DIAGRAM.jpg: Entity-Relationship diagram of the data.
+
+### SQL_Scripts
+* artisan_table_script.sql: SQL Create table commands.
+
+### Scripts
+* edit_csv.ipynb: Organizer script which is used to organize the raw data.
