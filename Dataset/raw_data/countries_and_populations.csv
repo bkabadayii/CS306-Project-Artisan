@@ -1,17 +1,17 @@
-Country name;Year;Population
+Country;Year;Population
 Afghanistan;2019;37769496
-Africa (UN);2019;1327701100
+Africa_(UN);2019;1327701100
 Albania;2019;2873883
 Algeria;2019;42705372
-American Samoa;2019;47341
+American_Samoa;2019;47341
 Andorra;2019;76361
 Angola;2019;32353592
 Anguilla;2019;15408
-Antigua and Barbuda;2019;92127
+Antigua_and_Barbuda;2019;92127
 Argentina;2019;44745516
 Armenia;2019;2820604
 Aruba;2019;106458
-Asia (UN);2019;4628967400
+Asia_(UN);2019;4628967400
 Australia;2019;25357168
 Austria;2019;8879939
 Azerbaijan;2019;10232761
@@ -26,56 +26,56 @@ Benin;2019;12290443
 Bermuda;2019;63833
 Bhutan;2019;767467
 Bolivia;2019;11777318
-Bonaire Sint Eustatius and Saba;2019;25597
-Bosnia and Herzegovina;2019;3360718
+Bonaire_Sint_Eustatius_and_Saba;2019;25597
+Bosnia_and_Herzegovina;2019;3360718
 Botswana;2019;2499705
 Brazil;2019;211782880
-British Virgin Islands;2019;30631
+British_Virgin_Islands;2019;30631
 Brunei;2019;438058
 Bulgaria;2019;7052536
-Burkina Faso;2019;20951638
+Burkina_Faso;2019;20951638
 Burundi;2019;11874838
 Cambodia;2019;16207746
 Cameroon;2019;25782342
 Canada;2019;37522584
-Cape Verde;2019;577037
-Cayman Islands;2019;66152
-Central African Republic;2019;5209329
+Cape_Verde;2019;577037
+Cayman_Islands;2019;66152
+Central_African_Republic;2019;5209329
 Chad;2019;16126868
 Chile;2019;19039484
 China;2019;1421864100
 Colombia;2019;50187404
 Comoros;2019;790993
 Congo;2019;5570736
-Cook Islands;2019;17133
-Costa Rica;2019;5084527
-Cote d'Ivoire;2019;26147544
+Cook_Islands;2019;17133
+Costa_Rica;2019;5084527
+Cote_d'Ivoire;2019;26147544
 Croatia;2019;4129749
 Cuba;2019;11316699
 Curacao;2019;193119
 Cyprus;2019;1228840
 Czechia;2019;10536876
-Democratic Republic of Congo;2019;89906900
+Democratic_Republic_of_Congo;2019;89906900
 Denmark;2019;5795879
 Djibouti;2019;1073999
 Dominica;2019;71446
-Dominican Republic;2019;10881886
+Dominican_Republic;2019;10881886
 Ecuador;2019;17343742
 Egypt;2019;105618670
-El Salvador;2019;6280222
-Equatorial Guinea;2019;1553037
+El_Salvador;2019;6280222
+Equatorial_Guinea;2019;1553037
 Eritrea;2019;3498819
 Estonia;2019;1327039
 Eswatini;2019;1169620
 Ethiopia;2019;114120590
-Europe (UN);2019;746189630
-Faeroe Islands;2019;51708
-Falkland Islands;2019;3729
+Europe_(UN);2019;746189630
+Faeroe_Islands;2019;51708
+Falkland_Islands;2019;3729
 Fiji;2019;918472
 Finland;2019;5521539
 France;2019;64399760
-French Guiana;2019;284088
-French Polynesia;2019;299730
+French_Guiana;2019;284088
+French_Polynesia;2019;299730
 Gabon;2019;2242788
 Gambia;2019;2508882
 Georgia;2019;3770814
@@ -93,9 +93,9 @@ Guinea;2019;12877537
 Guinea-Bissau;2019;1970460
 Guyana;2019;798761
 Haiti;2019;11160441
-High-income countries;2019;1240855700
+High-income_countries;2019;1240855700
 Honduras;2019;9958832
-Hong Kong;2019;7496121
+Hong_Kong;2019;7496121
 Hungary;2019;9771799
 Iceland;2019;360787
 India;2019;1383112100
@@ -103,7 +103,7 @@ Indonesia;2019;269582880
 Iran;2019;86564210
 Iraq;2019;41563524
 Ireland;2019;4896021
-Isle of Man;2019;83950
+Isle_of_Man;2019;83950
 Israel;2019;8607922
 Italy;2019;59727936
 Jamaica;2019;2813776
@@ -116,20 +116,20 @@ Kiribati;2019;124252
 Kosovo;2019;1686856
 Kuwait;2019;4441105
 Kyrgyzstan;2019;6323643
-Land-locked developing countries (LLDC);2019;524971870
+Land-locked_developing_countries_(LLDC);2019;524971870
 Laos;2019;7212058
-Latin America and the Caribbean (UN);2019;646846800
+Latin_America_and_the_Caribbean_(UN);2019;646846800
 Latvia;2019;1916552
-Least developed countries;2019;1048193540
+Least_developed_countries;2019;1048193540
 Lebanon;2019;5781912
 Lesotho;2019;2225710
-Less developed regions;2019;6490685400
+Less_developed_regions;2019;6490685400
 Liberia;2019;4985290
 Libya;2019;6569085
 Liechtenstein;2019;38500
 Lithuania;2019;2849083
-Low-income countries;2019;680013440
-Lower-middle-income countries;2019;3313063400
+Low-income_countries;2019;680013440
+Lower-middle-income_countries;2019;3313063400
 Luxembourg;2019;619981
 Macao;2019;663660
 Madagascar;2019;27533134
@@ -138,19 +138,19 @@ Malaysia;2019;32804024
 Maldives;2019;504518
 Mali;2019;20567430
 Malta;2019;503646
-Marshall Islands;2019;44750
+Marshall_Islands;2019;44750
 Martinique;2019;372254
 Mauritania;2019;4383853
 Mauritius;2019;1296284
 Mayotte;2019;294502
 Mexico;2019;125085310
-Micronesia (country);2019;111392
+Micronesia_(country);2019;111392
 Moldova;2019;3109496
 Monaco;2019;37059
 Mongolia;2019;3232435
 Montenegro;2019;630403
 Montserrat;2019;4528
-More developed regions;2019;1274265500
+More_developed_regions;2019;1274265500
 Morocco;2019;36304410
 Mozambique;2019;30285602
 Myanmar;2019;53040212
@@ -158,62 +158,62 @@ Namibia;2019;2446648
 Nauru;2019;12156
 Nepal;2019;28832500
 Netherlands;2019;17363260
-New Caledonia;2019;285374
-New Zealand;2019;4959033
+New_Caledonia;2019;285374
+New_Zealand;2019;4959033
 Nicaragua;2019;6663919
 Niger;2019;23443400
 Nigeria;2019;203304500
 Niue;2019;1943
-North Korea;2019;25755442
-North Macedonia;2019;2114175
-Northern America (UN);2019;371967900
-Northern Mariana Islands;2019;49880
+North_Korea;2019;25755442
+North_Macedonia;2019;2114175
+Northern_America_(UN);2019;371967900
+Northern_Mariana_Islands;2019;49880
 Norway;2019;5348285
-Oceania (UN);2019;43278150
+Oceania_(UN);2019;43278150
 Oman;2019;4602769
 Pakistan;2019;223293280
 Palau;2019;17939
 Palestine;2019;4909775
 Panama;2019;4232538
-Papua New Guinea;2019;9542492
+Papua_New_Guinea;2019;9542492
 Paraguay;2019;6530029
 Peru;2019;32824864
 Philippines;2019;110380800
 Poland;2019;38493600
 Portugal;2019;10289921
-Puerto Rico;2019;3292888
+Puerto_Rico;2019;3292888
 Qatar;2019;2807242
 Reunion;2019;949423
 Romania;2019;19524212
 Russia;2019;145742290
 Rwanda;2019;12835029
-Saint Barthelemy;2019;10504
-Saint Helena;2019;5470
-Saint Kitts and Nevis;2019;47739
-Saint Lucia;2019;178594
-Saint Martin (French part);2019;33150
-Saint Pierre and Miquelon;2019;5952
-Saint Vincent and the Grenadines;2019;104940
+Saint_Barthelemy;2019;10504
+Saint_Helena;2019;5470
+Saint_Kitts_and_Nevis;2019;47739
+Saint_Lucia;2019;178594
+Saint_Martin_(French_part);2019;33150
+Saint_Pierre_and_Miquelon;2019;5952
+Saint_Vincent_and_the_Grenadines;2019;104940
 Samoa;2019;211915
-San Marino;2019;34203
-Sao Tome and Principe;2019;214612
-Saudi Arabia;2019;35827364
+San_Marino;2019;34203
+Sao_Tome_and_Principe;2019;214612
+Saudi_Arabia;2019;35827364
 Senegal;2019;16000783
 Serbia;2019;7401056
 Seychelles;2019;104386
-Sierra Leone;2019;8046830
+Sierra_Leone;2019;8046830
 Singapore;2019;5866408
-Sint Maarten (Dutch part);2019;43002
+Sint_Maarten_(Dutch_part);2019;43002
 Slovakia;2019;5453932
 Slovenia;2019;2112905
-Small island developing states (SIDS);2019;72558344
-Solomon Islands;2019;675000
+Small_island_developing_states_(SIDS);2019;72558344
+Solomon_Islands;2019;675000
 Somalia;2019;15981312
-South Africa;2019;58087060
-South Korea;2019;51803830
-South Sudan;2019;10447677
+South_Africa;2019;58087060
+South_Korea;2019;51803830
+South_Sudan;2019;10447677
 Spain;2019;47131372
-Sri Lanka;2019;21649664
+Sri_Lanka;2019;21649664
 Sudan;2019;43232092
 Suriname;2019;600305
 Sweden;2019;10267922
@@ -227,26 +227,26 @@ Timor;2019;1280442
 Togo;2019;8243093
 Tokelau;2019;1775
 Tonga;2019;104965
-Trinidad and Tobago;2019;1519960
+Trinidad_and_Tobago;2019;1519960
 Tunisia;2019;12049319
 Turkey;2019;83481690
 Turkmenistan;2019;6158424
-Turks and Caicos Islands;2019;43104
+Turks_and_Caicos_Islands;2019;43104
 Tuvalu;2019;10983
 Uganda;2019;42949076
 Ukraine;2019;44211100
-United Arab Emirates;2019;9211660
-United Kingdom;2019;66778660
-United States;2019;334319680
-United States Virgin Islands;2019;100837
-Upper-middle-income countries;2019;2501414100
+United_Arab_Emirates;2019;9211660
+United_Kingdom;2019;66778660
+United_States;2019;334319680
+United_States_Virgin_Islands;2019;100837
+Upper-middle-income_countries;2019;2501414100
 Uruguay;2019;3428412
 Uzbekistan;2019;32976946
 Vanuatu;2019;304414
 Venezuela;2019;28971686
 Vietnam;2019;95776710
-Wallis and Futuna;2019;11735
-Western Sahara;2019;544883
+Wallis_and_Futuna;2019;11735
+Western_Sahara;2019;544883
 World;2019;7764951000
 Yemen;2019;31546694
 Zambia;2019;18380478

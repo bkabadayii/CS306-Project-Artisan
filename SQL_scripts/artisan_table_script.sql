@@ -8,41 +8,44 @@ CREATE TABLE country (
 );
 
 CREATE TABLE life_exceptancy (
-    date VARCHAR(20) NOT NULL,
-    age FLOAT, 
+    country_code VARCHAR(20) NOT NULL,
+    age FLOAT,
+    FOREIGN KEY (country_code) REFERENCES country(code), life_exceptancy(country_code)
 );
 
 CREATE TABLE HIV_deaths (
-    age_range VARCHAR(20),
-    PRIMARY KEY (age_range)
+    country_code VARCHAR(10),
+    death_rate_age_5 FLOAT,
+    death_rate_age_6_14 FLOAT,
+    death_rate_age_15_49 FLOAT,
+    death_rate_age_50_69 FLOAT,
+    death_rate_age_70 FLOAT,
+    PRIMARY KEY (country_code)
 );
 
 CREATE TABLE deaths (
     disease_code INTEGER NOT NULL,
+    country_code VARCHAR(10) NOT NULL,
     death_num INTEGER,
-    date VARCHAR(20)
-    type VARCHAR(20)
+    date VARCHAR(20),
+    disase_type VARCHAR(20)
 );
 
 CREATE TABLE expect (
     country_code VARCHAR(10) NOT NULL,
-    life_exceptancy_date VARCHAR(20) NOT NULL,
-    FOREIGN KEY (country_code) REFERENCES country(code),
-    FOREIGN KEY (life_exceptancy_date) REFERENCES life_exceptancy(date),   
+    FOREIGN KEY (country_code) REFERENCES country(code), life_exceptancy(code) 
 );
 
 CREATE TABLE cures_by_ART (
     country_code VARCHAR(10) NOT NULL,
-    HIV_deaths_age_range VARCHAR(20) NOT NULL,
     num_deaths_averted INTEGER,
-    FOREIGN KEY country_code REFERENCES country(code),
-    FOREIGN KEY HIV_deaths_age_range REFERENCES HIV_deaths(age_range),
+    FOREIGN KEY country_code REFERENCES country(code), HIV_deaths(country_code)
 );
 
 CREATE TABLE cause (
     country_code VARCHAR(10) NOT NULL,
     deaths_disease_code INTEGER NOT NULL,
-    FOREIGN KEY country_code REFERENCES country(code),
+    FOREIGN KEY country_code REFERENCES country(code), deaths(country_code)
     FOREIGN KEY deaths_disease_code REFERENCES deaths(disease_code)
 )
 
