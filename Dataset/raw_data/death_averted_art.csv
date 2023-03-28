@@ -1,136 +1,136 @@
-Entity;Code;Year;Deaths averted due to ART - estimate;
-Afghanistan;AFG;2016;41,4994;
-Albania;ALB;2016;44,8595;
-Algeria;DZA;2016;483,807;
-Angola;AGO;2016;6064,21;
-Argentina;ARG;2016;2708,42;
-Armenia;ARM;2016;100,736;
-Asia and the Pacific;;2016;165868;
-Australia;AUS;2016;912,904;
-Azerbaijan;AZE;2016;206,6;
-Bahrain;BHR;2016;7,0238;
-Bangladesh;BGD;2016;149,103;
-Barbados;BRB;2016;60,3411;
-Belize;BLZ;2016;174,905;
-Benin;BEN;2016;1964,43;
-Bolivia;BOL;2016;533,225;
-Botswana;BWA;2016;15187,3;
-Brazil;BRA;2016;157,775;
-Bulgaria;BGR;2016;77,35;
-Burkina Faso;BFA;2016;2761,14;
-Burundi;BDI;2016;2930;
-Cambodia;KHM;2016;1971,96;
-Cameroon;CMR;2016;10115,2;
-Cape Verde;CPV;2016;93,5579;
-Caribbean;;2016;12788,2;
-Central African Republic;CAF;2016;2552,29;
-Chad;TCD;2016;4244,74;
-Colombia;COL;2016;5460,35;
-Comoros;COM;2016;2,96335;
-Congo;COG;2016;2086,7;
-Costa Rica;CRI;2016;17,6981;
-Cote d'Ivoire;CIV;2016;10012,4;
-Croatia;HRV;2016;49,5088;
-Cuba;CUB;2016;739,408;
-Czechia;CZE;2016;99,9369;
-Democratic Republic of Congo;COD;2016;11942,5;
-Djibouti;DJI;2016;176,405;
-Dominican Republic;DOM;2016;1716,15;
-East and Southern Africa;;2016;781631;
-Eastern Europe and Central Asia;;2016;34534,2;
-Ecuador;ECU;2016;1241,9;
-Egypt;EGY;2016;172,346;
-El Salvador;SLV;2016;617,278;
-Equatorial Guinea;GNQ;2016;1160,7;
-Eritrea;ERI;2016;495,328;
-Eswatini;SWZ;2016;8437,98;
-Ethiopia;ETH;2016;23240,9;
-Fiji;FJI;2016;33,3902;
-France;FRA;2016;9,72424;
-Gabon;GAB;2016;1851,58;
-Gambia;GMB;2016;402,461;
-Georgia;GEO;2016;312,794;
-Ghana;GHA;2016;7381,61;
-Guatemala;GTM;2016;1074,52;
-Guinea;GIN;2016;2433,36;
-Guinea-Bissau;GNB;2016;870,593;
-Guyana;GUY;2016;303,286;
-Haiti;HTI;2016;7915,75;
-Honduras;HND;2016;508,623;
-India;IND;2016;78642;
-Indonesia;IDN;2016;6360,18;
-Iran;IRN;2016;782,861;
-Jamaica;JAM;2016;833,559;
-Jordan;JOR;2016;11,8528;
-Kazakhstan;KAZ;2016;654,861;
-Kenya;KEN;2016;53573;
-Kuwait;KWT;2016;12,7919;
-Kyrgyzstan;KGZ;2016;212,52;
-Laos;LAO;2016;353,305;
-Latin America;;2016;28492,5;
-Latvia;LVA;2016;87,0788;
-Lebanon;LBN;2016;45,528;
-Lesotho;LSO;2016;9202,32;
-Liberia;LBR;2016;395,039;
-Lithuania;LTU;2016;65,0729;
-Luxembourg;LUX;2016;33,5436;
-Madagascar;MDG;2016;143,404;
-Malawi;MWI;2016;35531,2;
-Malaysia;MYS;2016;2442,04;
-Mali;MLI;2016;1213,71;
-Malta;MLT;2016;0,03172;
-Mauritania;MRT;2016;149,472;
-Mexico;MEX;2016;6798,62;
-Middle East and North Africa;;2016;3558,37;
-Moldova;MDA;2016;267,822;
-Mongolia;MNG;2016;11,8662;
-Montenegro;MNE;2016;11,517;
-Morocco;MAR;2016;750,006;
-Mozambique;MOZ;2016;55660,3;
-Myanmar;MMR;2016;10935,2;
-Namibia;NAM;2016;8954,9;
-Nepal;NPL;2016;1176,3;
-Netherlands;NLD;2016;801,752;
-Nicaragua;NIC;2016;325,858;
-Niger;NER;2016;670,009;
-Nigeria;NGA;2016;56574,9;
-North Macedonia;MKD;2016;11,5156;
-Pakistan;PAK;2016;527,942;
-Panama;PAN;2016;473,293;
-Papua New Guinea;PNG;2016;1912,34;
-Paraguay;PRY;2016;376,127;
-Peru;PER;2016;2531,99;
-Philippines;PHL;2016;724,369;
-Qatar;QAT;2016;2,79797;
-Romania;ROU;2016;513,9;
-Rwanda;RWA;2016;8944,14;
-Saudi Arabia;SAU;2016;205,552;
-Senegal;SEN;2016;940,081;
-Serbia;SRB;2016;0,31667;
-Sierra Leone;SLE;2016;1320,15;
-Slovakia;SVK;2016;30,4618;
-Slovenia;SVN;2016;35,0344;
-Somalia;SOM;2016;226,224;
-South Africa;ZAF;2016;297992;
-South Sudan;SSD;2016;2342,18;
-Sri Lanka;LKA;2016;109,85;
-Sudan;SDN;2016;394,024;
-Suriname;SUR;2016;114,708;
-Sweden;SWE;2016;453,812;
-Tajikistan;TJK;2016;281,366;
-Tanzania;TZA;2016;54986,5;
-Thailand;THA;2016;11843,7;
-Togo;TGO;2016;2738,12;
-Trinidad and Tobago;TTO;2016;378,339;
-Tunisia;TUN;2016;54,7054;
-Uganda;UGA;2016;59959,9;
-Ukraine;UKR;2016;6503,42;
-Uruguay;URY;2016;524,062;
-Venezuela;VEN;2016;3570,67;
-Vietnam;VNM;2016;8933,93;
-West and Central Africa;;2016;126805;
-Western & Central Europe and North America;;2016;59664,7;
-World;OWID_WRL;2016;1210000;
-Yemen;YEM;2016;139,635;
-Zambia;ZMB;2016;91546,8;
-Zimbabwe;ZWE;2016;49365,7;
+Entity;Code;Year;Deaths averted due to ART - estimate
+Afghanistan;AFG;2016;41,4994
+Albania;ALB;2016;44,8595
+Algeria;DZA;2016;483,807
+Angola;AGO;2016;6064,21
+Argentina;ARG;2016;2708,42
+Armenia;ARM;2016;100,736
+Asia and the Pacific;;2016;165868
+Australia;AUS;2016;912,904
+Azerbaijan;AZE;2016;206,6
+Bahrain;BHR;2016;7,0238
+Bangladesh;BGD;2016;149,103
+Barbados;BRB;2016;60,3411
+Belize;BLZ;2016;174,905
+Benin;BEN;2016;1964,43
+Bolivia;BOL;2016;533,225
+Botswana;BWA;2016;15187,3
+Brazil;BRA;2016;157,775
+Bulgaria;BGR;2016;77,35
+Burkina Faso;BFA;2016;2761,14
+Burundi;BDI;2016;2930
+Cambodia;KHM;2016;1971,96
+Cameroon;CMR;2016;10115,2
+Cape Verde;CPV;2016;93,5579
+Caribbean;;2016;12788,2
+Central African Republic;CAF;2016;2552,29
+Chad;TCD;2016;4244,74
+Colombia;COL;2016;5460,35
+Comoros;COM;2016;2,96335
+Congo;COG;2016;2086,7
+Costa Rica;CRI;2016;17,6981
+Cote d'Ivoire;CIV;2016;10012,4
+Croatia;HRV;2016;49,5088
+Cuba;CUB;2016;739,408
+Czechia;CZE;2016;99,9369
+Democratic Republic of Congo;COD;2016;11942,5
+Djibouti;DJI;2016;176,405
+Dominican Republic;DOM;2016;1716,15
+East and Southern Africa;;2016;781631
+Eastern Europe and Central Asia;;2016;34534,2
+Ecuador;ECU;2016;1241,9
+Egypt;EGY;2016;172,346
+El Salvador;SLV;2016;617,278
+Equatorial Guinea;GNQ;2016;1160,7
+Eritrea;ERI;2016;495,328
+Eswatini;SWZ;2016;8437,98
+Ethiopia;ETH;2016;23240,9
+Fiji;FJI;2016;33,3902
+France;FRA;2016;9,72424
+Gabon;GAB;2016;1851,58
+Gambia;GMB;2016;402,461
+Georgia;GEO;2016;312,794
+Ghana;GHA;2016;7381,61
+Guatemala;GTM;2016;1074,52
+Guinea;GIN;2016;2433,36
+Guinea-Bissau;GNB;2016;870,593
+Guyana;GUY;2016;303,286
+Haiti;HTI;2016;7915,75
+Honduras;HND;2016;508,623
+India;IND;2016;78642
+Indonesia;IDN;2016;6360,18
+Iran;IRN;2016;782,861
+Jamaica;JAM;2016;833,559
+Jordan;JOR;2016;11,8528
+Kazakhstan;KAZ;2016;654,861
+Kenya;KEN;2016;53573
+Kuwait;KWT;2016;12,7919
+Kyrgyzstan;KGZ;2016;212,52
+Laos;LAO;2016;353,305
+Latin America;;2016;28492,5
+Latvia;LVA;2016;87,0788
+Lebanon;LBN;2016;45,528
+Lesotho;LSO;2016;9202,32
+Liberia;LBR;2016;395,039
+Lithuania;LTU;2016;65,0729
+Luxembourg;LUX;2016;33,5436
+Madagascar;MDG;2016;143,404
+Malawi;MWI;2016;35531,2
+Malaysia;MYS;2016;2442,04
+Mali;MLI;2016;1213,71
+Malta;MLT;2016;0,03172
+Mauritania;MRT;2016;149,472
+Mexico;MEX;2016;6798,62
+Middle East and North Africa;;2016;3558,37
+Moldova;MDA;2016;267,822
+Mongolia;MNG;2016;11,8662
+Montenegro;MNE;2016;11,517
+Morocco;MAR;2016;750,006
+Mozambique;MOZ;2016;55660,3
+Myanmar;MMR;2016;10935,2
+Namibia;NAM;2016;8954,9
+Nepal;NPL;2016;1176,3
+Netherlands;NLD;2016;801,752
+Nicaragua;NIC;2016;325,858
+Niger;NER;2016;670,009
+Nigeria;NGA;2016;56574,9
+North Macedonia;MKD;2016;11,5156
+Pakistan;PAK;2016;527,942
+Panama;PAN;2016;473,293
+Papua New Guinea;PNG;2016;1912,34
+Paraguay;PRY;2016;376,127
+Peru;PER;2016;2531,99
+Philippines;PHL;2016;724,369
+Qatar;QAT;2016;2,79797
+Romania;ROU;2016;513,9
+Rwanda;RWA;2016;8944,14
+Saudi Arabia;SAU;2016;205,552
+Senegal;SEN;2016;940,081
+Serbia;SRB;2016;0,31667
+Sierra Leone;SLE;2016;1320,15
+Slovakia;SVK;2016;30,4618
+Slovenia;SVN;2016;35,0344
+Somalia;SOM;2016;226,224
+South Africa;ZAF;2016;297992
+South Sudan;SSD;2016;2342,18
+Sri Lanka;LKA;2016;109,85
+Sudan;SDN;2016;394,024
+Suriname;SUR;2016;114,708
+Sweden;SWE;2016;453,812
+Tajikistan;TJK;2016;281,366
+Tanzania;TZA;2016;54986,5
+Thailand;THA;2016;11843,7
+Togo;TGO;2016;2738,12
+Trinidad and Tobago;TTO;2016;378,339
+Tunisia;TUN;2016;54,7054
+Uganda;UGA;2016;59959,9
+Ukraine;UKR;2016;6503,42
+Uruguay;URY;2016;524,062
+Venezuela;VEN;2016;3570,67
+Vietnam;VNM;2016;8933,93
+West and Central Africa;;2016;126805
+Western & Central Europe and North America;;2016;59664,7
+World;OWID_WRL;2016;1210000
+Yemen;YEM;2016;139,635
+Zambia;ZMB;2016;91546,8
+Zimbabwe;ZWE;2016;49365,7
