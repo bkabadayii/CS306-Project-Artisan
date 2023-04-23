@@ -43,7 +43,3 @@ create table cures_by_ART (
     num_deaths_averted INT,
     FOREIGN KEY (country_code) REFERENCES HIV_deaths(country_code)
 );
-
-
-
-
