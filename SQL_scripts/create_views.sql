@@ -1,3 +1,5 @@
+use Artisan;
+
 CREATE VIEW high_population_countries AS
 SELECT *
 FROM country

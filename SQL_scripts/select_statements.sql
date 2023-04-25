@@ -1,9 +1,12 @@
+use Artisan;
+
 -- 1. JOINS AND SET OPERATIONS --
 
 -- SELECT Developed Asia countries whose population > 20.000.000:
 SELECT * from high_population_countries
 INTERSECT
 SELECT * from developed_asia_countries;
+
 
 -- SELECT Low life expectancy country_code's whose Hiv death rates among childs are > 10:
 SELECT country_code from low_life_expectancy_countries
@@ -63,14 +66,14 @@ HAVING COUNT(*) >= 2;
 SELECT country_code, disease_type, MAX(death_num) AS max_death_num
 FROM deaths
 GROUP BY country_code
-HAVING disease_type = (SELECT disease_type FROM deaths WHERE death_num = max_death_num)
+HAVING disease_type = (SELECT disease_type FROM deaths WHERE death_num = max_death_num);
 
 -- Find the countries that have the minimum ART cure rate for each continent:
 SELECT continent, country.country_code, MIN(num_deaths_averted) AS min_num_deaths_averted
 FROM cures_by_ART
 JOIN country ON cures_by_ART.country_code = country.country_code
 GROUP BY continent
-HAVING num_deaths_averted = (SELECT MIN(num_deaths_averted) FROM cures_by_ART WHERE country_code = country.country_code)
+HAVING num_deaths_averted = (SELECT MIN(num_deaths_averted) FROM cures_by_ART WHERE country_code = country.country_code);
 
 -- Find average development index and average ART cure rate for each continent:
 SELECT 
